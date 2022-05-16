@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652179258 source:c:\users\84395\onedrive - vnu.edu.vn\máy tính\game_sdl2\brick breaker\main.cpp
+	"SDL2/SDL.h"
+	<iostream>
+	<ctime>
+
+1652624988 source:c:\users\84395\onedrive - vnu.edu.vn\máy tính\game_sdl2\brick breaker - copy\main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<math.h>
+	<ctime>
+
